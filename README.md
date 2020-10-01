@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python
+# Machine-Learning-with-Python3
 内容摘自'中国大学MOOC':[Python机器学习应用](http://www.icourse163.org/course/BIT-1001872001)
 
 
